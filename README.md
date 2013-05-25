@@ -1,7 +1,7 @@
-twitter.github.com
+asdil12.github.io
 ======
 
-The source code of http://twitter.github.com/
+The source code of http://asdil12.github.io/
 
 LICENSE
 ------------
